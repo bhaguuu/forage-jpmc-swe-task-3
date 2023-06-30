@@ -1,0 +1,26 @@
+From 44c65060322f870f4b3736c2b40b56cae9b6f7bd Mon Sep 17 00:00:00 2001
+From: bhagwati lal <ankitmenariya30@gmail.com>
+Date: Fri, 30 Jun 2023 16:20:12 +0530
+Subject: [PATCH] Move python files to datafeed dir
+
+---
+ .idea/vcs.xml | 6 ++++++
+ 1 file changed, 6 insertions(+)
+ create mode 100644 .idea/vcs.xml
+
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+index 0000000..35eb1dd
+--- /dev/null
++++ b/.idea/vcs.xml
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+-- 
+2.40.1.windows.1
+
